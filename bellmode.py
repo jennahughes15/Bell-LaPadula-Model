@@ -1,7 +1,7 @@
-# Moe= only can view 
+# Moe= Her Majesty's Eyes Only 
 #Larry= Top Secret 
-#Curly=
-#Shemp=
+#Curly= Secret
+#Shemp= Public
 
 # import os
 # THIS_FOLDER = os.path.dirname(os.path.abspath(__file__))
@@ -9,14 +9,14 @@
 
 
 # class Majestyeye:
-# # only be able to view 
+# # can create file= "Her Majesty's Eyes Only", only be able to view 
 
 # 	def viewonly():
 
 
 
 # class Topsecret: 
-# 	# can view, create 
+# 	# can view, create = "Top Secret" 
 # 	def __init__(self, action):
 # 		self.action = action
 
@@ -26,12 +26,12 @@
 
 
 # class Secret:
-# 	# can creat own file, cannot write on topsecret 
+# 	# can creat own file = "Secret", cannot write on topsecret 
 
 
 
 # class Public:
-# 	# they can creat own file but cannot veiw other files
+# 	# they can creat own file = "Public" but cannot veiw other files
 
 
 
